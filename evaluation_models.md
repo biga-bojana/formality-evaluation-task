@@ -55,4 +55,3 @@ All samples were labeled as `formal` or `informal`.
 - Introduce a third class (neutral) and revisit classification schema.
 - Use human-labeled gold standard data for more reliable LLM judgment evaluation.
 - Try on languages other than English.
-- 
